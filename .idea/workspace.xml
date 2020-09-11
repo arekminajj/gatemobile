@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e7eabf3-889e-4ccf-ad29-6bcfb72a7f7f" name="Default Changelist" comment="" />
+    <list default="true" id="9e7eabf3-889e-4ccf-ad29-6bcfb72a7f7f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gatemobile/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gatemobile/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatemobile/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/gatemobile/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatemobile/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/gatemobile/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatemobile/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gatemobile/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h8HjIpTiGB8Vr94NeaI5kP6I7a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,10 +41,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="412" y="140" width="1200" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599396710947">
+    <state x="315" y="187" width="1200" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599403851951">
       <screen x="105" y="0" width="1815" height="1080" />
     </state>
-    <state x="412" y="140" width="1200" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog/105.0.1815.1080@105.0.1815.1080" timestamp="1599396710947" />
+    <state x="315" y="187" width="1200" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog/105.0.1815.1080@105.0.1815.1080" timestamp="1599403851951" />
     <state x="708" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1599396668094">
       <screen x="105" y="0" width="1815" height="1080" />
     </state>
