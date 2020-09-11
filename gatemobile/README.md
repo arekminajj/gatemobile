@@ -1,6 +1,6 @@
 # gatemobile
 
-:iphone: Mobile application for automatic entry gate remote sytstem, written in Flutter
+:iphone: Mobile application for automatic entry gate remote system, written in Flutter
 
 ## Getting Started
 
